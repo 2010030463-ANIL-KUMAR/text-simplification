@@ -1,0 +1,2 @@
+Text Simplification
+it is the task of reducing the complexity of the vocabulary and sentence structure of text while retaining its original meaning, with the goal of improving readability and understanding. Simplification has a variety of important societal applications, for example increasing accessibility for those with cognitive disabilities such as aphasia, dyslexia, and autism, or for non-native speakers and children with reading difficulties.
